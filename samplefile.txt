@@ -1,0 +1,6 @@
+Article2 3.00
+Article3 2.00
+Article1 4.00
+Article4 1.00
+Total sum of all articles = 10.00
+
